@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+scrapy 
+scrapy-playwright
+=======
 scrapy==2.11.0
 scrapy-playwright==0.0.33
 pandas==2.2.3
 pytest==8.3.3
+>>>>>>> 33df52b58947d2ba0fb412c2b2b4e26692a831cf
+
+
